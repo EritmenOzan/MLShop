@@ -2,5 +2,4 @@
 -MLShopBussiness
 -MLShopData
 -MLShopPresantation
-
 *Swagger ile API testi yapıldı.
